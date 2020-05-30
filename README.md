@@ -1,0 +1,2 @@
+# AssetsStoreParticule
+MyAssets
