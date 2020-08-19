@@ -1,2 +1,3 @@
 Cette collection de scripts et d'exemples de scènes peut être utilisée pour
 démarrer votre apprentissage à Particule ou vous servir de base à vos propres projets.
+Les images utilisées dans cet asset proviennent de ce site web : https://pixel-frog.itch.io/pixel-adventure-1
